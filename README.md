@@ -1,7 +1,6 @@
 
 # Introduction
-!Karate Framework Demo 2023[128px-Karate_software_logo svg](https://user-images.githubusercontent.com/13111254/219272950-a4a1f35c-bb2b-4d77-9143-c13a02a82907.png)
-
+## Karate Framework Demo 2023
 
 The purpose of this project is to apply the techniques and best practices covered during the frontend and backend sessions to a real framework.
 
